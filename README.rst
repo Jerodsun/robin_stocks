@@ -6,6 +6,10 @@ Building from source
 easiest way: 
 `python setup.py install --user`
 
+Next time you make a PR, probably best to re-fork and commit with highlight:: `git-mv`.
+
+https://mirrors.edge.kernel.org/pub/software/scm/git/docs/git-mv.html
+
 Introduction
 ========================
 This library aims to create simple to use functions to interact with the
