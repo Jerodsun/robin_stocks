@@ -1,6 +1,11 @@
 Robinhood API Library
 ========================
 
+Building from source
+========================
+easiest way: 
+`python setup.py install --user`
+
 Introduction
 ========================
 This library aims to create simple to use functions to interact with the
